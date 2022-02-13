@@ -10,17 +10,6 @@ body {
     background-color: #d9dcd6;
 }
 
-nav {
-    
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-    font-size: 48px;
-    margin-left: 25px;
-    float: right;
-    position: relative;
-}
-
 
 .header {
     padding: 20px;
@@ -56,6 +45,15 @@ nav {
 }
 
 
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    font-size: 48px;
+    margin-left: 25px;
+    float: right;
+    position: relative;
+}
 
 
 
